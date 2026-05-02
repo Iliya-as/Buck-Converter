@@ -6,7 +6,7 @@ A high-efficiency step-down (buck) converter designed with **LMR16030** switchin
 
 | Parameter | Value |
 |-----------|-------|
-| Input Voltage | Adjustable via step-down transformer |
+| Input Voltage | Adjustable via step-down transformer (Max 60v)|
 | Output Voltage | Adjustable |
 | Max Output Current | 3A |
 | Switching Frequency | 500 kHz |
@@ -25,7 +25,7 @@ A high-efficiency step-down (buck) converter designed with **LMR16030** switchin
 
 - [Schematic](Outputs/Schematic.pdf)
 - [PCB Layout (2D)](Outputs/PCB_2D.pdf)
-- [PCB Layout (3D)](Outputs/PCB_3D.pdf)
+  
 
 ## Applications
 
